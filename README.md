@@ -258,13 +258,13 @@ const VideoEditingWebsite = () => {
                   <div className="w-8 h-8 bg-primary/10 rounded-full flex items-center justify-center mr-3">
                     <span className="text-primary">✉️</span>
                   </div>
-                  <span>contato@videocraft.com</span>
+                  <span>matheusbragia03Wgmail.com</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-8 h-8 bg-primary/10 rounded-full flex items-center justify-center mr-3">
                     <span className="text-primary">📞</span>
                   </div>
-                  <span>+55 (11) 99999-9999</span>
+                  <span>+55 (19) 99620-4099</span>
                 </div>
               </div>
             </div>
@@ -329,7 +329,3 @@ const VideoEditingWebsite = () => {
         </div>
       </footer>
     </div>
-  );
-};
-
-export default VideoEditingWebsite;
